@@ -3,7 +3,7 @@ I am an aspiring game developer who finds interest in all things tech. I’ve da
 
 I (will) have a certification from Mountainland Technical College for Software Quality Assurance where I have learned many skills.
 
-# -Skills-
+# Skills
 __Automated Testing__
   * Can use Webdriver IO to perform automated tests
 
@@ -13,14 +13,14 @@ __Manual Testing__
 __Test Creation / Bug Reporting__
   * Can create test cases/plans and bug tickets using Jira
 
-# -Tools-
+# Tools
 __Jira__
   * Knows how to create bug reports / test cases in a Kanban board environment
 
 __Visual Studio / Webdriver IO__
   * Can create automated test cases through the use of VS code and Webdriver IO using Java Script
 
-# -Examples-
+# Examples
 __Automated Test__
   * https://github.com/RiversDunham/SteamPowered-Automation --Source Code
   * https://drive.google.com/file/d/15SaU2Q9baQ9YDt3JhzlNd4AHG-7fevSV/view?usp=drive_link --Visual Representation
